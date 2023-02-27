@@ -1,8 +1,8 @@
 const router = require('express').Router();
 
-// TO DO rename routes
-const userRoutes = require('./user-routes');
+const userRoutes = require('./userRoute');
 
+// TO DO rename route here?
 router.use('/users', userRoutes);
 
 module.exports = router;
