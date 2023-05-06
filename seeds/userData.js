@@ -1,5 +1,5 @@
-  [  
-    {
+  [
+  {
       "name": "Sophia",
       "password": "password123"
     },

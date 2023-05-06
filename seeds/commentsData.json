@@ -1,9 +1,12 @@
-
 [
     {
-
+        "text": "This is a Comment!",
+        "user_id": 1,
+        "blogPost_id": 1
     },
     {
-
+        "text": "This is a Comment! 12345ABC",
+        "user_id": 2,
+        "blogPost_id": 2
     }
 ]
