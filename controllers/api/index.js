@@ -4,7 +4,7 @@ const userRoutes = require('./userRoute');
 const blogPostRoutes =  require("./blogPostRoute")
 
 // TO DO rename route here?
-router.use('/users', userRoutes);
+router.use('/user', userRoutes);
 router.use("/blogPost", blogPostRoutes)
 
 module.exports = router;
